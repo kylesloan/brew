@@ -4,6 +4,6 @@ brew install ack ansible asciinema aspell awscli bash bash-completion bashdb cma
 
 brew cask install brave canary firefox flux gimp google-chrome handbrake imageoptim iterm2 lastpass paparazzi quicksilver shortcat skitch slack spectacle torbrowser vagrant vienna virtualbox
 
-Get lastpass app from apple app store
+Get lastpass and helium app from apple app store
 
 Get docker for mac from their website
