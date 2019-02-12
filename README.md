@@ -4,9 +4,9 @@
 
 
 # brew cask
->brew tap caskroom/fonts isacikgoz/gitin
+>brew tap caskroom/fonts isacikgoz/gitin derailed/k9s
 
->brew cask install brave canary firefox flux font-hack-nerd-font gimp gitin google-chrome handbrake imageoptim iterm2 karabiner-elements lastpass paparazzi quicksilver shortcat skitch slack spectacle torbrowser vagrant vienna virtualbox
+>brew cask install brave canary firefox flux font-hack-nerd-font gimp gitin google-chrome handbrake imageoptim iterm2 karabiner-elements k9s lastpass paparazzi quicksilver shortcat skitch slack spectacle torbrowser vagrant vienna virtualbox
 
 # node
 
