@@ -10,7 +10,7 @@
 
 # node
 
->npm install -g terminalizer
+>npm install -g gnomon terminalizer
 
 # manual
 * Get lastpass and helium app from apple app store
